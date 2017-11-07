@@ -10,7 +10,7 @@ where each responds to a specific needs.
 A mobile application designed to better respond to the efforts of helping
 persons in need.
 
-<a href='https://efonsecabhotmail.sharepoint.com/_layouts/15/guestaccess.aspx?docid=0868d947faebc4f719e93aead2b89b40b&authkey=AQT5v1fR2K14wJc1t_a0QiM&expiration=2017-10-19T17%3A17%3A08.000Z&e=bd5c41ffc3c54f2a83b272e4dade3fd7' target='_blank'>Project HTH - Mobile App GDD</a>
+https://efonsecabhotmail.sharepoint.com/_layouts/15/guestaccess.aspx?docid=0868d947faebc4f719e93aead2b89b40b&authkey=AQT5v1fR2K14wJc1t_a0QiM&expiration=2017-10-19T17%3A17%3A08.000Z&e=bd5c41ffc3c54f2a83b272e4dade3fd7
 
 ## Project HTH - Videogame
 Videogames have many genres, one of those genres is Serious Games.
@@ -37,7 +37,4 @@ https://www.pticostarica.com/Game/ProjectHTH
 
 https://youtu.be/9pUcdzi4qbU
 
-
-
-<a href="http://www.google.com" target="blank">google</a>
 
