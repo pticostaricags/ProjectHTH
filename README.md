@@ -19,9 +19,23 @@ among Serious Games there is a subgenre named Games For Change,
 these are videogames specifically designed to create social impact,
 create a batter world by generating a positive impact in society.
 
-Project HTH has a videogames component designed to create awareness about
+To learn more about Games For Change you can visit these links:
+
+https://en.wikipedia.org/wiki/Games_for_Change
+
+http://www.gamesforchange.org/play/
+
+Project HTH has a videogame component designed to create awareness about
 the many different causes which can lead to homelessness, and also it is
 designed to train persons so they can help erradicating homelessness.
 
+For more information on Project HTH Videogames you can visit the following links
+
 https://efonsecabhotmail.sharepoint.com/_layouts/15/guestaccess.aspx?docid=0b67a92da4c2d4feea68da73e7c00c1ff&authkey=AQoMB_C-O-8c_9E5SuvzD7o&e=ff2bbf44df624b399049891865287ca6
+
+https://www.pticostarica.com/Game/ProjectHTH
+
+https://youtu.be/9pUcdzi4qbU
+
+
 
